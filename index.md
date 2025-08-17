@@ -4,8 +4,9 @@ title: 高橋 右のレジュメ
 ---
 # 高橋 右
 インタラクティブ・アート・エンジニア, teamLab,inc. なんでも作るエンジニアで常にテクノロジーの未来を考えています。
+SF映画（SciFi）の世界を作ることが人生の目標です。
 
-主な専門領域は，3Dグラフィックス, 分散システム, 言語処理系, Web, デジタル・ファブリケーション，プログラミング歴15年（2025年現在），職歴6年10ヶ月
+主な専門領域は，3Dグラフィックス, 分散システム, 言語処理系, Web, デジタル・ファブリケーション，プログラミング歴15年（2025年現在），職歴7年5ヶ月
 <!--<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617-->
 <div id="webaddress" class="only_show_on_web">
   <a href="https://supertask.jp"><i class="fas fa-home"></i> supertask.jp</a> -
